@@ -1,11 +1,11 @@
 # Weather
-🌊 About — DeepOcean Labs WeatherSphere Pro
+ About — DeepOcean Labs WeatherSphere Pro
 
-⚡ Overview
+ Overview
 
 WeatherSphere Pro is an advanced AI-powered global weather intelligence console built for precision, speed, and elegance. Designed and developed by DeepOcean Labs, it combines cutting-edge meteorological APIs with smart automation to deliver real-time weather updates, AI insights, and interactive data visualization in one unified dashboard.
 
-🌤️ Key Features
+ Key Features
 
 Real-Time Global Weather: Instant temperature, humidity, pressure, and wind speed data for any city.
 
@@ -19,7 +19,7 @@ Smart Location: Auto-detect current city or search globally with instant results
 
 Professional UI: A minimal, glass-inspired interface built with elegance and interactivity in mind.
 
-💠 Technology Stack
+ Technology Stack
 
 Frontend: HTML5, CSS3, JavaScript (ES6)
 
@@ -30,13 +30,13 @@ UI Frameworks: Tailwind CSS + MotionFX animations
 Database: Firebase Firestore (for saved locations, analytics, and logs)
 
 # Weather
-🌊 About — DeepOcean Labs WeatherSphere Pro
+ About — DeepOcean Labs WeatherSphere Pro
 
-⚡ Overview
+ Overview
 
 WeatherSphere Pro is an advanced AI-powered global weather intelligence console built for precision, speed, and elegance. Designed and developed by DeepOcean Labs, it combines cutting-edge meteorological APIs with smart automation to deliver real-time weather updates, AI insights, and interactive data visualization in one unified dashboard.
 
-🌤️ Key Features
+ Key Features
 
 Real-Time Global Weather: Instant temperature, humidity, pressure, and wind speed data for any city.
 
@@ -50,7 +50,7 @@ Smart Location: Auto-detect current city or search globally with instant results
 
 Professional UI: A minimal, glass-inspired interface built with elegance and interactivity in mind.
 
-💠 Technology Stack
+ Technology Stack
 
 Frontend: HTML5, CSS3, JavaScript (ES6)
 
@@ -60,11 +60,11 @@ UI Frameworks: Tailwind CSS + MotionFX animations
 
 Database: Firebase Firestore (for saved locations, analytics, and logs)
 
-🧠 Mission
+ Mission
 
 To engineer an ecosystem of intelligent environmental tools that empower users to understand and adapt to global climate changes — combining data, design, and deep learning into one seamless experience.
 
-🌀 DeepOcean Labs Vision
+ DeepOcean Labs Vision
 
 “Where AI meets the atmosphere — exploring the future, one forecast at a time.”
 
